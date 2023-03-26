@@ -1,0 +1,14 @@
+* {
+    background-color: #dcfe00;
+    font-family: "Inconsolata";
+}
+
+.nav-list .nav-items{
+    list-style-type: none;
+    display: inline-block;
+    font-weight: bold;
+    
+
+}
+
+
